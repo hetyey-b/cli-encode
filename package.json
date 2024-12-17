@@ -10,7 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "base-64": "^1.0.0",
-    "commander": "^12.1.0"
+    "commander": "^12.1.0",
+    "md5": "^2.3.0",
+    "sha256": "^0.2.0"
   },
   "bin": {
     "cli-encode": "./index.js"
